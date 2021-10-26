@@ -1,5 +1,5 @@
 {
-    "name": "@bosonprotocol/contracts",
+    "name": "@dohaki/bosonprotocol-contracts",
     "version": "1.0.0",
     "description": "Repo for Boson Protocol prototype of the core exchange mechanism",
     "types": "typechain/index.ts",
