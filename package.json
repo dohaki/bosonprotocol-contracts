@@ -1,5 +1,5 @@
 {
-    "name": "@dohaki/bosonprotocol-contracts",
+    "name": "@dohaki_boson/bosonprotocol-core",
     "version": "1.0.0",
     "description": "Repo for Boson Protocol prototype of the core exchange mechanism",
     "types": "typechain/index.ts",
@@ -59,8 +59,7 @@
         "tests:format-fix": "prettier --write test/**/*.ts testHelpers/**/*.ts scripts/**/*.ts",
         "tests:unit": "npx hardhat test",
         "tests:coverage": "npx hardhat coverage",
-        "contracts:size": "hardhat size-contracts",
-        "prepublishOnly": "npm run contracts:lint && npm run contracts:compile && npm run tests:unit"
+        "contracts:size": "hardhat size-contracts"
     },
     "repository": {
         "type": "git",
