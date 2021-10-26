@@ -1,6 +1,6 @@
 {
     "name": "@dohaki_boson/bosonprotocol-core",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "description": "Repo for Boson Protocol prototype of the core exchange mechanism",
     "types": "typechain/index.ts",
     "directories": {
